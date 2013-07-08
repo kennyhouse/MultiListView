@@ -3,6 +3,8 @@ package com.example.multilistview;
 import android.content.Context;
 import android.widget.ArrayAdapter;
 
+//change
+
 public class MyPerformanceArrayAdapter extends ArrayAdapter{
 	Context context;
 	
